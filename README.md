@@ -1,4 +1,5 @@
 ### Hi!! I'm Ana!! ʚ₍ᐢ. .ᐢ₎ɞ
+
 • 🗓 working at Compass.
 • 📁 studying Computer Science. 
 • 🖇 qa analyst | tester. 
