@@ -1,8 +1,8 @@
 ### Hi!! I'm Ana!! ʚ₍ᐢ. .ᐢ₎ɞ
-🗓 working at Compass.
-📁 studying Computer Science. 
-🖇 qa analyst | tester. 
-💭 + cybersecurity.
+• 🗓 working at Compass.
+• 📁 studying Computer Science. 
+• 🖇 qa analyst | tester. 
+• 💭 + cybersecurity.
 
  <div>
   <a href="https://github.com/annahaubert">
